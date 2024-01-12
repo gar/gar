@@ -1,4 +1,4 @@
-### HHi, I’m Gar! 👋
+### Hi, I’m Gar! 👋
 
 I'm an Elixir and Ruby software engineer with almost 20 years of experience in web development and leading technical projects.
 
